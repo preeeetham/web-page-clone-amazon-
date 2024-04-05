@@ -1,6 +1,6 @@
 # LANDING WEB PAGE CLONE OF AMAZON
 
-This project is a simple demonstration of my HTML and CSS skills. It implements a [insert description of the project here].
+In this project, we aim to recreate the landing page of Amazon's homepage using HTML and CSS. The Amazon homepage serves as the gateway for millions of users worldwide to access a diverse range of products and services. By cloning this page, we aim to practice and demonstrate our HTML and CSS skills while also gaining insights into the layout, design, and responsiveness of a complex and widely-used e-commerce platform..
 
 ## Video Reference
 
